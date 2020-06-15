@@ -1,0 +1,6 @@
+#!/bin/bash
+export LD_PRELOAD="`pwd`/libhax.so"
+cd ~/et255
+./et.x86
+UNSET LD_PRELOAD
+

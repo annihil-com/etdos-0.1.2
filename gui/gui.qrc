@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resx/chat_allie.png</file>
+    <file>resx/chat_axis.png</file>
+    <file>resx/chat_spec.png</file>
+</qresource>
+</RCC>
